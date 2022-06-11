@@ -1,1 +1,0 @@
-In this project there will be various problems of discrete optimization, different algorithms for solving and some extra stuff
